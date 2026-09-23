@@ -93,3 +93,9 @@ th
     font-size: 30px;
     margin-top: 20px;
 }
+
+table{
+    margin: 0 auto;
+    margin-top: 20px;
+    background-color: #fff;
+}
