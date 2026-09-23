@@ -47,3 +47,7 @@ input{
     margin: 10px;
     margin-left: 650px;
 }
+
+*{
+    box-sizing: border-box;
+}
